@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer.iml" filepath="$PROJECT_DIR$/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../consumer-topic/consumer-topic.iml" filepath="$PROJECT_DIR$/../consumer-topic/consumer-topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanout/fanout.iml" filepath="$PROJECT_DIR$/fanout/fanout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../consumer-topic/provider-topic/provider-topic.iml" filepath="$PROJECT_DIR$/../consumer-topic/provider-topic/provider-topic.iml" />
+    </modules>
+  </component>
+</project>
